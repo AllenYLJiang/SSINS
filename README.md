@@ -1,1 +1,1 @@
-# A-Self-Supervised-Framework-for-Human-Instance-Segmentation
+# SSINS
