@@ -16,8 +16,8 @@ pandas
 thop
 
 # Run the modules for people detection and tracking: 
-python window.py > 
-place the decoded frames into data_for_test, the frames of each video are placed in one folder 
+python window.py 
+> place the decoded frames into data_for_test, the frames of each video are placed in one folder 
 the results will be automatically stored in cache 
 
 # The module for tracking is the basis for the module for instance segmentation which will be released soon 
